@@ -1,0 +1,26 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 693px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 358px;
+  height: 113px;
+  margin: 18px auto 60px 20px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 687px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 107px;
+    margin-left: 0;
+  }
+}@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Tahoma.ttf);
+}
