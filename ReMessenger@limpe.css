@@ -41,17 +41,9 @@
 @media (max-width: 1399px) {
   .u-section-1 .u-image-1 {
     transition-duration: 0.5s;
-    margin-left: 60px;
-  }
-
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 15px;
-    margin-left: 57px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 27px;
     margin-right: 570px;
     margin-left: 56px;
   }
@@ -59,29 +51,14 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-2 {
-    margin-left: 0;
     margin-right: 426px;
-  }
-
-  .u-section-1 .u-image-2 {
-    margin-top: 20px;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 164px;
-    margin-left: 18px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 7px;
-    margin-left: 18px;
-  }
-
   .u-section-1 .u-text-2 {
-    width: auto;
-    margin: 30px 188px 60px 18px;
+    margin-right: 206px;
   }
 }
 
@@ -91,7 +68,7 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 8px;
+    margin-right: 26px;
   }
 
   .u-section-1 .u-image-2 {
@@ -102,6 +79,10 @@
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 446px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 93px;
   }
 
   .u-section-1 .u-text-2 {
@@ -692,4 +673,9 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/Tahoma.ttf);
+}@font-face {
+  font-family: 'vag-world-bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/vag-world-bold.ttf);
 }

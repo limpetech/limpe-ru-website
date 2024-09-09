@@ -1,0 +1,118 @@
+ .u-section-1 {
+  min-height: 911px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 259px;
+  height: 82px;
+  margin: 0 auto 0 calc(((100% - 1320px) / 2));
+}
+
+.u-section-1 .u-line-1 {
+  margin-top: -7px;
+  margin-bottom: 0;
+  transform-origin: left center;
+}
+
+.u-section-1 .u-image-2 {
+  height: 103px;
+  margin-top: 0;
+  margin-bottom: 0;
+  filter: brightness(0.45);
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Tahoma;
+  font-size: 2.25rem;
+  text-shadow: 2px -2px 40px rgba(128,128,128,1);
+  margin: -80px auto 0 calc(((100% - 1320px) / 2));
+}
+
+.u-section-1 .u-custom-html-1 {
+  width: 1362px;
+  height: auto;
+  min-height: 589px;
+  background-image: none;
+  margin: 52px auto 60px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 1140px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2)  + 309px);
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 1140px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 940px) / 2)  + 309px);
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 720px) / 2)  + 237px);
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+    margin-left: calc(((100% - 540px) / 2)  + 178px);
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 340px) / 2)  + 112px);
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'Tahoma';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Tahoma.ttf);
+}@font-face {
+  font-family: 'vag-world-bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/vag-world-bold.ttf);
+}

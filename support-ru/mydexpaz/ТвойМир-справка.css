@@ -71,7 +71,7 @@
 
 .u-section-1 .u-text-5 {
   font-family: Tahoma;
-  margin: 20px 0 0 6px;
+  margin: 455px 0 0;
 }
 
 .u-section-1 .u-btn-3 {
@@ -81,29 +81,9 @@
 
 .u-section-1 .u-text-6 {
   font-family: Tahoma;
-  margin: 20px 6px 0 0;
-}
-
-.u-section-1 .u-btn-4 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-1 .u-text-7 {
-  font-family: Tahoma;
   font-style: italic;
   font-size: 1rem;
-  margin: 277px 162px 0 0;
-}
-
-.u-section-1 .u-text-8 {
-  font-family: Tahoma;
-  margin: 0 0 -12px;
-}
-
-.u-section-1 .u-btn-5 {
-  background-image: none;
-  padding: 0;
+  margin: -54px 162px 0 0;
 }
 
 .u-section-1 .u-group-2 {
@@ -119,7 +99,7 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-9 {
+.u-section-1 .u-text-7 {
   font-family: Tahoma;
   font-size: 1.875rem;
   margin: 254px 0 0;
@@ -202,7 +182,7 @@
     margin-right: calc(((100% - 940px) / 2));
   }
 
-  .u-section-1 .u-text-9 {
+  .u-section-1 .u-text-7 {
     width: auto;
     margin-top: 252px;
     margin-right: -17px;
@@ -252,21 +232,11 @@
   }
 
   .u-section-1 .u-text-5 {
-    width: auto;
-    margin-top: 42px;
-    margin-right: 6px;
-    margin-left: 0;
+    margin-top: -341px;
   }
 
   .u-section-1 .u-text-6 {
-    width: auto;
-    margin-top: 42px;
-    margin-left: 3px;
-    margin-right: 3px;
-  }
-
-  .u-section-1 .u-text-7 {
-    margin-top: 214px;
+    margin-top: 355px;
     margin-right: 582px;
   }
 
@@ -321,16 +291,8 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-5 {
-    margin-right: 0;
-  }
-
   .u-section-1 .u-text-6 {
-    margin-right: 0;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-text-7 {
+    margin-top: 358px;
     margin-right: 386px;
   }
 
@@ -340,7 +302,7 @@
     margin-right: calc(((100% - 540px) / 2));
   }
 
-  .u-section-1 .u-text-9 {
+  .u-section-1 .u-text-7 {
     font-size: 1rem;
     margin-left: 0;
     margin-right: 0;
@@ -361,10 +323,13 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: calc(((100% - 340px) / 2));
+    width: auto;
+    margin-top: -84px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-2 {
+    margin-top: 24px;
     margin-right: calc(((100% - 340px) / 2)  + 28px);
     margin-left: calc(((100% - 340px) / 2)  + -28px);
   }
@@ -374,7 +339,7 @@
     margin-left: auto;
   }
 
-  .u-section-1 .u-text-7 {
+  .u-section-1 .u-text-6 {
     margin-right: 241px;
   }
 

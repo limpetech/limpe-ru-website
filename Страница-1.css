@@ -5,7 +5,19 @@
 .u-section-1 .u-image-1 {
   width: 358px;
   height: 113px;
-  margin: 18px auto 60px 20px;
+  margin: 11px auto 60px 384px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 362px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 182px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -23,4 +35,9 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/Tahoma.ttf);
+}@font-face {
+  font-family: 'vag-world-bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/vag-world-bold.ttf);
 }
