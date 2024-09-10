@@ -122,17 +122,12 @@
 }
 
 .u-section-1 .u-text-9 {
-  margin: 30px auto 0 61px;
+  margin: 30px auto 60px 61px;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
   padding: 0;
-}
-
-.u-section-1 .u-text-10 {
-  font-family: SkypeUISymbol-Regular;
-  margin: 18px 924px 60px 61px;
 }
 
 @media (max-width: 1399px) {
@@ -151,10 +146,6 @@
   .u-section-1 .u-group-3 {
     height: auto;
   }
-
-  .u-section-1 .u-text-10 {
-    margin-right: 744px;
-  }
 }
 
 @media (max-width: 1199px) {
@@ -164,10 +155,6 @@
 
   .u-section-1 .u-group-3 {
     margin-top: 20px;
-  }
-
-  .u-section-1 .u-text-10 {
-    margin-right: 544px;
   }
 }
 
@@ -185,11 +172,6 @@
     width: auto;
     margin-top: 41px;
     margin-left: auto;
-    margin-bottom: 51px;
-  }
-
-  .u-section-1 .u-text-10 {
-    margin-right: 324px;
   }
 }
 
@@ -239,10 +221,6 @@
   .u-section-1 .u-text-8 {
     font-size: 1rem;
   }
-
-  .u-section-1 .u-text-10 {
-    margin-right: 144px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -278,10 +256,6 @@
   .u-section-1 .u-text-8 {
     font-size: 1.875rem;
   }
-
-  .u-section-1 .u-text-10 {
-    margin-right: 0;
-  }
 }
 
 .u-section-1 .u-image-2,
@@ -293,11 +267,6 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/Tahoma.ttf);
-}@font-face {
-  font-family: 'SkypeUISymbol-Regular';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/SkypeUISymbol-Regular.ttf);
 }@font-face {
   font-family: 'vag-world-bold';
   font-style: normal;
