@@ -43746,6 +43746,7 @@ a.u-link.u-text-hover-grey-90:hover {
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: vag-world-bold;
   margin: -32px auto 33px 266px;
 }
 @media (max-width: 1399px) {
