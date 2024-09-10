@@ -43912,10 +43912,20 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -62px auto 0 36px;
 }
 
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-header .u-text-2 {
   font-family: vag-world-bold;
   font-size: 2.25rem;
   margin: -67px auto 0 88px;
+}
+
+.u-header .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 .u-header .u-text-3 {
@@ -43954,8 +43964,16 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -62px;
   }
 
+  .u-header .u-btn-1 {
+    font-size: 3rem;
+  }
+
   .u-header .u-text-2 {
     margin-top: -67px;
+  }
+
+  .u-header .u-btn-2 {
+    font-size: 2.25rem;
   }
 
   .u-header .u-text-3 {
@@ -43982,27 +44000,26 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
     width: auto;
-    margin-top: -60px;
-    margin-left: 51px;
+    margin-top: -54px;
+    margin-left: 58px;
   }
 
   .u-header .u-text-2 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: -62px;
     margin-left: 103px;
   }
 
   .u-header .u-text-3 {
     width: auto;
     font-size: 1rem;
-    margin-top: -4px;
-    margin-left: 103px;
+    margin-top: -12px;
+    margin-left: 102px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -41px;
+    margin-top: -61px;
     margin-right: 0;
   }
 }
@@ -44014,7 +44031,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-2 {
     font-size: 2.25rem;
-    margin-top: -67px;
     margin-left: auto;
   }
 
@@ -44035,14 +44051,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     font-size: 3.75rem;
-    margin-top: -79px;
-    margin-left: 169px;
+    margin-top: -78px;
+    margin-left: 180px;
   }
 
   .u-header .u-text-2 {
     font-size: 3rem;
     margin-top: -87px;
-    margin-right: 190px;
+  }
+
+  .u-header .u-text-3 {
+    margin-top: -16px;
   }
 
   .u-header .u-menu-1 {
@@ -44051,6 +44070,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 107px;
+  }
+
   .u-header .u-text-1 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: -300px;
@@ -44068,16 +44091,14 @@ a.u-link.u-text-hover-grey-90:hover {
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
     margin-top: -86px;
-    margin-right: 83px;
   }
 
   .u-header .u-text-3 {
-    margin-top: -17px;
-    margin-right: 107px;
+    margin-top: -18px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -66px;
+    margin-top: -64px;
     margin-bottom: 43px;
   }
 }
