@@ -387,6 +387,8 @@
   }
 
   .u-section-1 .u-text-10 {
+    font-family: Tahoma;
+    font-size: 1.875rem;
     width: auto;
     margin-top: 634px;
     margin-right: -8px;
@@ -663,9 +665,4 @@
   font-style: normal;
   font-weight: 400;
   src: url(fonts/Tahoma.ttf);
-}@font-face {
-  font-family: 'vag-world-bold';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/vag-world-bold.ttf);
 }

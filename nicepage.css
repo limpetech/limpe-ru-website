@@ -43146,12 +43146,22 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
         --theme-sheet-width-xs: 340px;
         --theme-sheet-width-xxl: 1320px;
+        
+        
+        
+        
+        
         
         
         
@@ -43260,6 +43270,9 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: Tahoma;
         }
         a
         {
@@ -43389,6 +43402,16 @@ a.u-link.u-text-hover-grey-90:hover {
         font-size: 1.5rem;
         }
         }
+        @media (max-width: 1199px) {
+        p:not(.u-text-variant)
+        {
+        font-size: 1.875rem;
+        line-height: 1.6;
+        color: #336ba3;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        }
         @media (max-width: 767px) {
         p:not(.u-text-variant)
         {
@@ -43488,13 +43511,33 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         font-size: 1.5rem;
         }
+        .u-lg p:not(.u-text-variant)
+        {
+        font-size: 1.875rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        .u-md p:not(.u-text-variant)
+        {
+        font-size: 1.875rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
         .u-sm p:not(.u-text-variant)
         {
         font-size: 1rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         .u-xs p:not(.u-text-variant)
         {
         font-size: 1rem;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         .u-sm a
         {
@@ -43540,6 +43583,13 @@ a.u-link.u-text-hover-grey-90:hover {
         /** cms-rules **/
 
         /** color-rules **/
+        .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > p:not(.u-text-variant),
+        .u-gradient > .u-container-layout > p:not(.u-text-variant),
+        .u-image:not(.u-shading) > .u-container-layout > p:not(.u-text-variant),
+        p:not(.u-text-variant)
+        {
+        color: #000000;
+        }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
         .u-image:not(.u-shading) > .u-container-layout > a,
@@ -43605,6 +43655,10 @@ a.u-link.u-text-hover-grey-90:hover {
         /** color-rules **/
 
         /** alt-color-rules **/
+        .u-custom-color-2 p:not(.u-text-variant),.u-custom-color-3 p:not(.u-text-variant),.u-body-color p:not(.u-text-variant),.u-palette-1-base p:not(.u-text-variant),.u-palette-1-dark-3 p:not(.u-text-variant),.u-palette-1-dark-2 p:not(.u-text-variant),.u-palette-1-dark-1 p:not(.u-text-variant),.u-palette-1 p:not(.u-text-variant),.u-palette-1-light-1 p:not(.u-text-variant),.u-palette-2-base p:not(.u-text-variant),.u-palette-2-dark-3 p:not(.u-text-variant),.u-palette-2-dark-2 p:not(.u-text-variant),.u-palette-2-dark-1 p:not(.u-text-variant),.u-palette-2 p:not(.u-text-variant),.u-palette-2-light-1 p:not(.u-text-variant),.u-palette-3-dark-3 p:not(.u-text-variant),.u-palette-3-dark-2 p:not(.u-text-variant),.u-palette-3-dark-1 p:not(.u-text-variant),.u-palette-4-base p:not(.u-text-variant),.u-palette-4-dark-3 p:not(.u-text-variant),.u-palette-4-dark-2 p:not(.u-text-variant),.u-palette-4-dark-1 p:not(.u-text-variant),.u-palette-5-dark-3 p:not(.u-text-variant),.u-palette-5-dark-2 p:not(.u-text-variant),.u-palette-5-dark-1 p:not(.u-text-variant),.u-grey-40 p:not(.u-text-variant),.u-grey-30 p:not(.u-text-variant),.u-grey-90 p:not(.u-text-variant),.u-grey-80 p:not(.u-text-variant),.u-grey-75 p:not(.u-text-variant),.u-black p:not(.u-text-variant),.u-grey-70 p:not(.u-text-variant),.u-grey-60 p:not(.u-text-variant),.u-grey-50 p:not(.u-text-variant),.u-grey-dark-3 p:not(.u-text-variant),.u-grey-dark-2 p:not(.u-text-variant),.u-grey-dark-1 p:not(.u-text-variant),.u-grey p:not(.u-text-variant),.u-shading p:not(.u-text-variant),.u-overlap-contrast .u-header p:not(.u-text-variant):not(.u-nav-link):not(.u-btn)
+        {
+        color: #ffffff;
+        }
         .u-custom-color-2 a,.u-custom-color-3 a,.u-body-color a,.u-palette-1-base a,.u-palette-1-dark-3 a,.u-palette-1-dark-2 a,.u-palette-1-dark-1 a,.u-palette-1 a,.u-palette-1-light-1 a,.u-palette-2-base a,.u-palette-2-dark-3 a,.u-palette-2-dark-2 a,.u-palette-2-dark-1 a,.u-palette-2 a,.u-palette-2-light-1 a,.u-palette-3-dark-3 a,.u-palette-3-dark-2 a,.u-palette-3-dark-1 a,.u-palette-4-base a,.u-palette-4-dark-3 a,.u-palette-4-dark-2 a,.u-palette-4-dark-1 a,.u-palette-5-dark-3 a,.u-palette-5-dark-2 a,.u-palette-5-dark-1 a,.u-grey-40 a,.u-grey-30 a,.u-grey-90 a,.u-grey-80 a,.u-grey-75 a,.u-black a,.u-grey-70 a,.u-grey-60 a,.u-grey-50 a,.u-grey-dark-3 a,.u-grey-dark-2 a,.u-grey-dark-1 a,.u-grey a,.u-shading a,.u-overlap-contrast .u-header a:not(.u-nav-link):not(.u-btn)
         {
         color: #99cdff;
@@ -43687,7 +43741,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
-  font-family: vag-world-bold;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: -300px;
   --animation-custom_in-opacity: 0;
