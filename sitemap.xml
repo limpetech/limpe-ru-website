@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://ru.limpe.fum/Главная.html</loc>
-        <lastmod>2024-09-24T17:06:09+03:00</lastmod>
+        <lastmod>2024-09-24T17:22:44+03:00</lastmod>
     </url>
     <url>
         <loc>https://ru.limpe.fum/index.html</loc>
-        <lastmod>2024-09-24T17:06:09+03:00</lastmod>
+        <lastmod>2024-09-24T17:22:44+03:00</lastmod>
     </url>
     <url>
         <loc>https://ru.limpe.fum/im.html</loc>
         <lastmod>2024-09-24T16:50:23+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/payment/Купить-Лимпики.html</loc>
+        <loc>https://ru.limpe.fum/payment/limpiki.html</loc>
         <lastmod>2024-09-20T15:08:51+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/APIDoc/Документация-по-API-ТвойМир.html</loc>
+        <loc>https://ru.limpe.fum/api/mydexpaz.html</loc>
         <lastmod>2024-09-11T16:26:43+03:00</lastmod>
     </url>
     <url>
@@ -29,23 +29,19 @@
         <lastmod>2024-09-11T16:31:57+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/APIDoc/Внутреннее-устройство-KSkype/Внутреннее-устройство-КСкайп.html</loc>
-        <lastmod>2024-09-04T22:48:45+03:00</lastmod>
-    </url>
-    <url>
         <loc>https://ru.limpe.fum/support/КСКайп-справка.html</loc>
         <lastmod>2024-09-09T20:33:27+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/support/kskype/Поддержка-KSkype-1-41-43x.html</loc>
+        <loc>https://ru.limpe.fum/support/kskype/wrapperdeprecate.html</loc>
         <lastmod>2024-09-10T16:09:00+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/support/kskype/Что-такое-KSkype.html</loc>
+        <loc>https://ru.limpe.fum/support/kskype/what-is.html</loc>
         <lastmod>2024-09-05T21:05:48+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/support/kskype/Что-такое-calllogs.html</loc>
+        <loc>https://ru.limpe.fum/support/kskype/what-callogs.html</loc>
         <lastmod>2024-09-05T21:05:08+03:00</lastmod>
     </url>
     <url>
@@ -53,11 +49,11 @@
         <lastmod>2024-09-24T16:48:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/Download-center/Notes.html</loc>
+        <loc>https://ru.limpe.fum/downloads/Notes.html</loc>
         <lastmod>2024-09-24T16:24:12+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ru.limpe.fum/Service/Comingsoon.html</loc>
+        <loc>https://ru.limpe.fum/service/comingsoon.html</loc>
         <lastmod>2024-09-10T15:20:57+03:00</lastmod>
     </url>
     <url>
