@@ -25,6 +25,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-size: 1.125rem;
   margin: 0 0 0 860px;
 }
 
@@ -35,6 +36,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-size: 1.125rem;
   margin: -218px 509px 0 0;
 }
 
@@ -76,7 +78,8 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-left: 661px;
+    margin-right: -29px;
+    margin-left: 720px;
   }
 
   .u-section-1 .u-text-4 {
