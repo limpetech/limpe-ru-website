@@ -59,21 +59,28 @@
   }
 
   .u-section-1 .u-text-2 {
+    margin-top: 20px;
     margin-left: calc(((100% - 540px) / 2)  + 41px);
+    margin-bottom: initial;
   }
 }
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 1620px;
+    min-height: 2822px;
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-top: -93px;
+    margin-right: 19px;
     margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: calc(((100% - 340px) / 2)  + 41px);
+    width: auto;
+    margin: 45px auto 50px calc(((100% - 340px) / 2)  + -37px);
   }
 }@font-face {
   font-family: 'TahomaModerniz';
