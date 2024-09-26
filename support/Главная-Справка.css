@@ -336,7 +336,7 @@
   height: auto;
   box-shadow: 2px 0px 40px 0px rgba(128,128,128,1);
   min-height: 390px;
-  background-image: url("../images/image6.png");
+  background-image: url("/images/image6.png");
   margin: 20px auto 0 20px;
 }
 
