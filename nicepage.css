@@ -44532,7 +44532,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -46px 0 7px auto;
+  margin: -46px 0 0 auto;
 }
 
 .u-header .u-file-icon-1 {
@@ -44564,19 +44564,15 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 228px;
   margin: 33px 0 0 auto;
 }
+
+.u-header .u-image-3 {
+  width: 79px;
+  height: 79px;
+  margin: -58px auto -13px 163px;
+}
 @media (max-width: 1399px) {
-  .u-header .u-sheet-1 {
-    min-height: 58px;
-  }
-
-  .u-header .u-text-1 {
-    width: auto;
-    margin-top: -16px;
-    margin-left: 66px;
-  }
-
   .u-header .u-image-1 {
-    margin-top: -13px;
+    margin-top: -37px;
   }
 
   .u-header .u-image-2 {
@@ -44586,15 +44582,13 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-2 {
-    width: auto;
-    margin-top: -101px;
-    margin-left: 117px;
+    margin-top: -78px;
+    margin-left: 76px;
   }
 
   .u-header .u-menu-1 {
-    width: auto;
-    margin-top: -44px;
-    margin-bottom: 8px;
+    margin-top: -46px;
+    margin-right: 0;
   }
 
   .u-header .u-nav-2 {
@@ -44602,55 +44596,20 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 228px;
     margin-right: 0;
   }
+
+  .u-header .u-image-3 {
+    margin-top: -58px;
+    margin-left: 163px;
+  }
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 103px;
-  }
-
-  .u-header .u-text-1 {
-    margin-top: -12px;
-    margin-left: 59px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: -17px;
-  }
-
   .u-header .u-text-2 {
     font-size: 1.875rem;
-    margin-top: -97px;
-    margin-left: 110px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -47px;
-    margin-bottom: 52px;
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 82px;
-  }
-
-  .u-header .u-text-1 {
-    margin-left: 267px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: -17px;
-  }
-
   .u-header .u-text-2 {
     font-size: 2.25rem;
-    margin-top: -95px;
-    margin-left: auto;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -29px;
-    margin-right: 0;
-    margin-bottom: 29px;
   }
 
   .u-header .u-file-icon-1 {
@@ -44659,48 +44618,21 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 178px;
-  }
-
   .u-header .u-text-1 {
     font-size: 3.75rem;
-    margin-top: -27px;
-    margin-left: 200px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 59px;
   }
 
   .u-header .u-text-2 {
     font-size: 3rem;
-    margin-top: -192px;
-    margin-right: 198px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -37px;
-    margin-bottom: 60px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 163px;
-  }
-
   .u-header .u-text-1 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: -300px;
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
-    margin-top: -21px;
-    margin-left: 109px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 37px;
   }
 
   .u-header .u-text-2 {
@@ -44709,17 +44641,10 @@ a.u-link.u-text-hover-grey-90:hover {
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
-    margin-top: -170px;
-    margin-right: 96px;
   }
 
   .u-header .u-btn-2 {
     --animation-custom_in-rotate: 180deg;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -39px;
-    margin-right: -22px;
   }
 
   .u-header .u-file-icon-1 {
@@ -44879,7 +44804,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-image-1 {
-    height: 61px;
     margin-top: -63px;
   }
 
@@ -44899,14 +44823,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    height: 27px;
     margin-top: -12px;
     margin-left: 0;
   }
 
   .u-footer .u-social-icons-2 {
-    height: 27px;
-    margin-top: -27px;
     margin-bottom: 6px;
     margin-left: 175px;
   }
@@ -44942,14 +44863,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    width: 133px;
     margin-top: 39px;
     margin-right: 16px;
     margin-left: auto;
   }
 
   .u-footer .u-social-icons-2 {
-    margin: -27px 172px 29px auto;
+    margin-right: 172px;
+    margin-bottom: 29px;
+    margin-left: auto;
   }
 }
 @media (max-width: 575px) {
