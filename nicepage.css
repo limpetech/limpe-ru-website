@@ -44709,8 +44709,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 133px;
   min-width: 100px;
   height: 27px;
-  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
-  margin: -30px auto 0 calc(((100% - 1320px) / 2)  + 230px);
+  margin: -27px auto 0 calc(((100% - 1320px) / 2)  + 183px);
 }
 
 .u-footer .u-icon-2 {
@@ -44727,7 +44726,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   font-family: Tahoma;
-  margin: -24px 335px 0 calc(((100% - 1320px) / 2)  + 895px);
+  margin: -27px 335px 0 calc(((100% - 1320px) / 2)  + 895px);
 }
 
 .u-footer .u-btn-1 {
@@ -44775,6 +44774,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-2 {
+    transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
     margin-top: 572px;
     margin-left: calc(((100% - 1140px) / 2)  + 190px);
   }
@@ -44867,7 +44867,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-2 {
-    margin-top: -30px;
+    margin-top: -27px;
     margin-left: calc(((100% - 720px) / 2));
   }
 
@@ -44896,7 +44896,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-footer .u-image-1 {
     margin-top: 867px;
-    margin-right: calc(((100% - 540px) / 2) + 61px);
+    margin-right: calc(((100% - 540px) / 2)  + 61px);
   }
 
   .u-footer .u-social-icons-1 {
@@ -45004,14 +45004,6 @@ a.u-link.u-text-hover-grey-90:hover {
     border-style: solid !important;
     border-width: 0px !important;
     border-color: transparent !important
-} .u-footer .u-social-icons-2, .u-footer .u-social-icons-2:before, .u-footer .u-social-icons-2 > .u-container-layout:before {
-    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
-}
-.u-footer .u-social-icons-2.u-social-icons-2.u-social-icons-2:hover {
-    transform: translateX(0px) translateY(-5px) !important
-}
-.u-footer .u-social-icons-2.u-social-icons-2.u-social-icons-2.hover {
-    transform: translateX(0px) translateY(-5px) !important
 } 
 
 
