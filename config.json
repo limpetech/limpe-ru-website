@@ -1,0 +1,20 @@
+{
+  "startUrl": "https://my.dexpaz.ru/messages",
+  "allowedDomains": [
+    "static.limpe.fun",
+    "u.dexpaz.ru",
+    "cafe-cdn.limpe.fun",
+    "dexpaz.ru",
+    "my.dexpaz.ru",
+    "ml.dexpaz.ru",
+    "api.dexpaz.ru",
+    "rest.limpe.fun"
+  ],
+  "authUrl": "https://my.dexpaz.ru/messages/oauth",
+  "multiverseUrl": "https://my.dexpaz.ru/messages/multiverse",
+  "useNativeAuth": true,
+  "signup": false,
+  "signUpGateway": "https://my.dexpaz.ru/signup.php",
+  "logoutendpoint": "https://my.dexpaz.ru/messages/logout",
+  "loginendpoint": "https://my.dexpaz.ru/messages/login.php"
+}
