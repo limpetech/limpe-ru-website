@@ -1,5 +1,5 @@
 {
-  "startUrl": "https://my.dexpaz.ru/messages",
+  "startUrl": "https://my.dexpaz.ru/messages/msg",
   "allowedDomains": [
     "static.limpe.fun",
     "u.dexpaz.ru",
