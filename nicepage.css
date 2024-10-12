@@ -44695,8 +44695,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 27px;
   min-width: 16px;
   box-shadow: 2px 0 0 0 rgba(0,0,0,0);
-  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
-  margin: -44px auto 0 calc(((100% - 1320px) / 2)  + 133px);
+  margin: -43px auto 0 calc(((100% - 1320px) / 2)  + 132px);
 }
 
 .u-footer .u-icon-1 {
@@ -44709,7 +44708,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 133px;
   min-width: 100px;
   height: 27px;
-  margin: -27px auto 0 calc(((100% - 1320px) / 2)  + 183px);
+  margin: -28px auto 0 calc(((100% - 1320px) / 2)  + 181px);
 }
 
 .u-footer .u-icon-2 {
@@ -44769,6 +44768,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
+    transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
     margin-top: -642px;
     margin-left: calc(((100% - 1140px) / 2)  + 363px);
   }
@@ -44806,20 +44806,26 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 1199px) {
+   .u-footer {
+    min-height: 101px;
+  }
+
   .u-footer .u-image-1 {
     width: 154px;
     height: 58px;
-    margin-top: 1023px;
+    margin-top: 35px;
   }
 
   .u-footer .u-social-icons-1 {
+    height: 27px;
     transition-duration: 0.5s;
-    margin-top: -641px;
-    margin-left: calc(((100% - 940px) / 2)  + 324px);
+    margin-top: -43px;
+    margin-left: calc(((100% - 940px) / 2)  + 316px);
   }
 
   .u-footer .u-social-icons-2 {
     transition-duration: 0.5s;
+    margin-top: -27px;
     margin-left: calc(((100% - 940px) / 2)  + 163px);
   }
 
@@ -44852,7 +44858,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
    .u-footer {
-    min-height: 164px;
+    min-height: 166px;
   }
 
   .u-footer .u-image-1 {
@@ -44863,7 +44869,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-social-icons-1 {
     margin-top: -42px;
-    margin-left: calc(((100% - 720px) / 2)  + 167px);
+    margin-left: calc(((100% - 720px) / 2)  + 161px);
   }
 
   .u-footer .u-social-icons-2 {
@@ -44900,7 +44906,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    margin-top: -515px;
+    margin-top: -42px;
     margin-right: calc(((100% - 540px) / 2)  + 172px);
     margin-left: auto;
   }
@@ -44942,12 +44948,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    margin-top: 59px;
     margin-right: calc(((100% - 340px) / 2)  + 67px);
   }
 
   .u-footer .u-social-icons-2 {
-    margin-top: -77px;
     margin-right: calc(((100% - 340px) / 2)  + -39px);
   }
 
@@ -44972,40 +44976,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin: -78px auto 60px calc(((100% - 340px) / 2)  + 99px);
   }
 }
-.u-footer .u-social-icons-1, .u-footer .u-social-icons-1:before, .u-footer .u-social-icons-1 > .u-container-layout:before {
-    transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position
-}
-.u-footer .u-social-icons-1.u-social-icons-1.u-social-icons-1:hover {
-    box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
-    border-style: solid !important;
-    border-top-width: 2px !important;
-    border-left-width: 2px !important;
-    border-right-width: 2px !important;
-    border-bottom-width: 2px !important;
-    border-color: #404040 !important;
-    transform: translateX(0px) translateY(-5px) !important
-}
-.u-footer .u-social-icons-1 {
-    border-style: solid !important;
-    border-width: 0px !important;
-    border-color: transparent !important
-}
-.u-footer .u-social-icons-1.u-social-icons-1.u-social-icons-1.hover {
-    box-shadow: 2px 2px 8px 0px rgba(128,128,128,1) !important;
-    border-style: solid !important;
-    border-top-width: 2px !important;
-    border-left-width: 2px !important;
-    border-right-width: 2px !important;
-    border-bottom-width: 2px !important;
-    border-color: #404040 !important;
-    transform: translateX(0px) translateY(-5px) !important
-}
-.u-footer .u-social-icons-1 {
-    border-style: solid !important;
-    border-width: 0px !important;
-    border-color: transparent !important
-} 
-
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
