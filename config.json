@@ -16,5 +16,12 @@
   "signup": false,
   "signUpGateway": "https://my.dexpaz.ru/signup.php",
   "logoutendpoint": "https://my.dexpaz.ru/messages/logout",
-  "loginendpoint": "https://my.dexpaz.ru/messages/login.php"
+  "loginendpoint": "https://my.dexpaz.ru/messages/login.php",
+  "kernelhost": "https://my.dexpaz.ru/messages",
+  "IMauth": "https://my.dexpaz.ru/messages/oauth",
+  "multiverseAllowed": true,
+  "backButtonDisabled": true,
+  "logo": "https://ru.limpe.fun/images/-2024-08-27T011654.9311.png",
+  "edition": "Alpha",
+  "programLaunchAllowed": true
 }
