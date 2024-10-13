@@ -23,6 +23,7 @@
   "multiverseAllowed": true,
   "backButtonDisabled": true,
   "logo": "https://ru.limpe.fun/images/-2024-08-27T011654.9311.png",
+  "userExplorer": "https://my.dexpaz.ru/api/v2/profile/getProfile.php",
   "edition": "Alpha",
   "programLaunchAllowed": true
 }
