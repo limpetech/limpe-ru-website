@@ -24,18 +24,13 @@
     margin-left: 79px;
   }
 }@font-face {
-  font-family: 'TahomaModerniz';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/TahomaModerniz.woff2);
-}@font-face {
-  font-family: 'vag-world-bold';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/vag-world-bold.ttf);
-}@font-face {
   font-family: 'Tahoma';
   font-style: normal;
   font-weight: 400;
   src: url(fonts/Tahoma.ttf);
+}@font-face {
+  font-family: 'TahomaModerniz';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/TahomaModerniz.woff2);
 }
